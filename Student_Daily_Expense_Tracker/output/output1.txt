@@ -1,0 +1,18 @@
+Enter student name: Ananya
+Enter Daily budget: 500
+Enter food expences: 150
+Enter travel expences: 80
+Enter study expences: 100
+Enter other expences: 50
+
+---------- DAILY EXPENSE REPORT ----------
+Student Name          : Ananya
+Daily Budget          : 500.0
+Food Expences         : 150.0
+Travel Expences       : 80.0
+Stud Expences         : 100.0
+Other Expences        : 50.0
+Total Expences        : 380.0
+Remaining Amount      : 120.0
+Budget Status         : With Budget
+------------------------------------------
