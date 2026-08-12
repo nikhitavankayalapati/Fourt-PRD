@@ -1,0 +1,51 @@
+Enter Student Name: nikkki
+Enter Course Name: java
+Enter Completed Topics: 3
+Enter Questions Solved: 56
+Enter your choice: 4
+Enter New Questions Solved: 56
+Questions Updated successfully
+Total Questions Solved112
+
+
+PS C:\Users\nikhi\OneDrive\Desktop\KOD\Fourt-PRD>  c:; cd 'c:\Users\nikhi\OneDrive\Desktop\KOD\Fourt-PRD'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\nikhi\AppData\Roaming\Antigravity IDE\User\workspaceStorage\578273c2022d87d3ffcb256f57ba9dcb\redhat.java\jdt_ws\Fourt-PRD_8dba1b3\bin' 'StudentApp'
+Enter Student Name: nikki
+Enter Course Name: java
+Enter Completed Topics: 4
+Enter Questions Solved: 78
+Enter your choice: 3
+Enter New Completed Topics: 3
+Topics Updated successfully
+Total Completed Topics: 7
+
+
+PS C:\Users\nikhi\OneDrive\Desktop\KOD\Fourt-PRD>  c:; cd 'c:\Users\nikhi\OneDrive\Desktop\KOD\Fourt-PRD'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\nikhi\AppData\Roaming\Antigravity IDE\User\workspaceStorage\578273c2022d87d3ffcb256f57ba9dcb\redhat.java\jdt_ws\Fourt-PRD_8dba1b3\bin' 'StudentApp'
+Enter Student Name: nikki
+Enter Course Name: java
+Enter Completed Topics: 3
+Enter Questions Solved: 56
+Enter your choice: 1
+Student Name: nikki
+Course Name: java
+
+
+PS C:\Users\nikhi\OneDrive\Desktop\KOD\Fourt-PRD>  c:; cd 'c:\Users\nikhi\OneDrive\Desktop\KOD\Fourt-PRD'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\nikhi\AppData\Roaming\Antigravity IDE\User\workspaceStorage\578273c2022d87d3ffcb256f57ba9dcb\redhat.java\jdt_ws\Fourt-PRD_8dba1b3\bin' 'StudentApp'
+Enter Student Name: nikki
+Enter Course Name: java
+Enter Completed Topics: 4
+Enter Questions Solved: 78
+Enter your choice: 2
+Completed Topics: 4
+Questions Solved: 78
+
+
+PS C:\Users\nikhi\OneDrive\Desktop\KOD\Fourt-PRD>  c:; cd 'c:\Users\nikhi\OneDrive\Desktop\KOD\Fourt-PRD'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\nikhi\AppData\Roaming\Antigravity IDE\User\workspaceStorage\578273c2022d87d3ffcb256f57ba9dcb\redhat.java\jdt_ws\Fourt-PRD_8dba1b3\bin' 'StudentApp'
+Enter Student Name: nikki
+Enter Course Name: java
+Enter Completed Topics: 3
+Enter Questions Solved: 56
+Enter your choice: 3
+Enter New Completed Topics: 4
+Topics Updated successfully
+Total Completed Topics: 7
+
