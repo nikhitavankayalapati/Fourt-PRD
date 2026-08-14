@@ -1,0 +1,19 @@
+Enter student name: Kiran
+Enter Daily budget: 300
+Enter food expences: 140
+Enter travel expences: 90
+Enter study expences: 80
+Enter other expences: 40
+
+---------- DAILY EXPENSE REPORT ----------
+Student Name          : Kiran
+Daily Budget          : 300.0
+Food Expences         : 140.0
+Travel Expences       : 90.0
+Stud Expences         : 80.0
+Other Expences        : 40.0
+Total Expences        : 350.0
+Remaining Amount      : 50.0
+Budget Status         : Exceeded
+------------------------------------------
+PS C:\Users\nikhi\OneDrive\Desktop\KOD\Fourt-PRD> 
